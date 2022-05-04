@@ -7,4 +7,4 @@ in my OS/Operating system you can:
 -bla bla bla
 
 # how to use
-there is readme file in there
+go to bin\debug\net6.0 and run gebeOS.exe
